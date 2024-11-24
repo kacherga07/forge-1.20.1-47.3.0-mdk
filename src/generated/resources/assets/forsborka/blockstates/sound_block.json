@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "forsborka:block/sound_block"
+    }
+  }
+}

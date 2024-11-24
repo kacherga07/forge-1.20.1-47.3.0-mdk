@@ -1,0 +1,6 @@
+// 1.20.1	2024-11-18T03:15:32.3433679	Global Loot Modifiers : forsborka
+8720bf3b8f9b03e823c541de4724aa7b857cf10d data/forge/loot_modifiers/global_loot_modifiers.json
+9240a85e08ca651efd0a38de661a30e69b5d3cbb data/forsborka/loot_modifiers/metal_detector_from_jungle_temples.json
+35d33b6b089af94f117d1898b9db91d0d576f114 data/forsborka/loot_modifiers/metal_detector_from_suspicious_sand.json
+cb232ad6e54a1fba8d98f682fd0d3a30f3516000 data/forsborka/loot_modifiers/pine_cone_from_grass.json
+7c88481ac82d9963e46354c7fd9a2e71c7781914 data/forsborka/loot_modifiers/strawberry_from_creeper.json

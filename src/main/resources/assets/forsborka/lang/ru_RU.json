@@ -1,0 +1,62 @@
+{
+  "item.forsborka.sapphire": "Сапфир",
+  "item.forsborka.raw_sapphire": "Необработанный сапфир",
+
+  "creativetab.forsborka_tab": "Сапфиры",
+
+  "block.forsborka.sapphire_block": "Блок сапфира",
+  "block.forsborka.raw_sapphire_block": "Блок необработанного сапфира",
+
+  "block.forsborka.sapphire_ore": "Сапфировая руда",
+  "block.forsborka.deepslate_sapphire_ore": "Сапфировая руда из глубокого сланца",
+  "block.forsborka.nether_sapphire_ore": "Сапфировая руда нижнего мира",
+  "block.forsborka.end_stone_sapphire_ore": "Сапфировая руда края",
+
+  "item.forsborka.metal_detector": "Металлоискатель",
+
+  "block.forsborka.sound_block": "Звуковой блок",
+
+  "item.forsborka.strawberry": "Клубника",
+  "item.forsborka.corn": "Кукуруза",
+
+  "item.forsborka.pine_cone": "Сосновая шишка",
+
+  "tooltip.forsborka.metal_detector.tooltip": "Находит металл под землёй!",
+
+  "unmessage.forsborka.metal_detector.unmessage": "Металл не найден!",
+
+  "tooltip.forsborka.sound_block.tooltip": "Издаёт приятный звук при нажатии ПКМ!",
+
+  "block.forsborka.sapphire_stairs": "Сапфировая лестница",
+  "block.forsborka.sapphire_slab": "Сапфировый полублок",
+  "block.forsborka.sapphire_button": "Сапфировая кнопка",
+  "block.forsborka.sapphire_pressure_plate": "Сапфировая нажимная плита",
+  "block.forsborka.sapphire_fence": "Сапфировый забор",
+  "block.forsborka.sapphire_fence_gate": "Сапфировая калитка",
+  "block.forsborka.sapphire_wall": "Сапфировая стена",
+  "block.forsborka.sapphire_door": "Сапфировая дверь",
+  "block.forsborka.sapphire_trapdoor": "Сапфировый люк",
+
+  "item.forsborka.sapphire_staff": "Сапфировый посох",
+
+  "item.forsborka.sapphire_sword": "Сапфировый меч",
+  "item.forsborka.sapphire_pickaxe": "Сапфировая кирка",
+  "item.forsborka.sapphire_axe": "Сапфировый топор",
+  "item.forsborka.sapphire_shovel": "Сапфировая лопата",
+  "item.forsborka.sapphire_hoe": "Сапфировая мотыга",
+
+  "item.forsborka.sapphire_helmet": "Сапфировый шлем",
+  "item.forsborka.sapphire_chestplate": "Сапфировый нагрудник",
+  "item.forsborka.sapphire_leggings": "Сапфировые поножи",
+  "item.forsborka.sapphire_boots": "Сапфировые ботинки",
+
+  "item.forsborka.strawberry_seeds": "Семена клубники",
+  "item.forsborka.corn_seeds": "Семена кукурузы",
+
+  "block.forsborka.strawberry_crop": "Клубничный куст",
+  "block.forsborka.corn_crop": "Куст кукурузы",
+
+  "entity.minecraft.villager.forsborka.soundmaster": "Музыкальный мастер",
+
+  "sounds.forsborka.metal_detector_found_ore": "Звон металлоискателя"
+}

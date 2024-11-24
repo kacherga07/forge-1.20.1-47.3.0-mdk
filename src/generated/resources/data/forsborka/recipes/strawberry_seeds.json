@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "forsborka:strawberry"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "forsborka:strawberry_seeds"
+  }
+}

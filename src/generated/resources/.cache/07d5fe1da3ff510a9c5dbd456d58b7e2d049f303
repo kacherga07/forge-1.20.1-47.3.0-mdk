@@ -1,0 +1,10 @@
+// 1.20.1	2024-11-19T23:47:35.683476	Tags for minecraft:block mod id forsborka
+d10176a5c5022994b40509ae8c6cf7b8e1507e1b data/forge/tags/blocks/needs_netherite_tool.json
+36151f0b7f0389acc31a11c1ede9a2bf94b0eff4 data/forsborka/tags/blocks/metal_detector_valuables.json
+4491a88af357fc9db21389f906a3383afc1aa3b4 data/forsborka/tags/blocks/needs_sapphire_tool.json
+edaca39e07729465bcf0ece74ac73d740c3b8751 data/minecraft/tags/blocks/fences.json
+6a1c2b3545b725f4dabcd5790aeb75a95190877c data/minecraft/tags/blocks/fence_gates.json
+b2325d88ed2833a50310e3ad3046c3cf8eb6f3d8 data/minecraft/tags/blocks/mineable/pickaxe.json
+ff4b0d75f0aca2f9eb619a90130dfff6a6f1a9b4 data/minecraft/tags/blocks/needs_diamond_tool.json
+e89c2b93a6d8fb9b50217b1d10941e88599b0baf data/minecraft/tags/blocks/needs_iron_tool.json
+9f021dad5fdc51afc2821ce8f3630faa8e2c9e4a data/minecraft/tags/blocks/walls.json

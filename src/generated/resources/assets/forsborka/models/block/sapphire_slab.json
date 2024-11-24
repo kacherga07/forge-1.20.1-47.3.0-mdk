@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "forsborka:block/sapphire_block",
+    "side": "forsborka:block/sapphire_block",
+    "top": "forsborka:block/sapphire_block"
+  }
+}

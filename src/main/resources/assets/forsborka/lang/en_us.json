@@ -1,0 +1,63 @@
+{
+  "item.forsborka.sapphire": "Sapphire",
+  "item.forsborka.raw_sapphire": "Raw sapphire",
+
+  "creativetab.forsborka_tab": "Sapphires",
+
+  "block.forsborka.sapphire_block": "Block of sapphire",
+  "block.forsborka.raw_sapphire_block": "Block of raw sapphire",
+
+  "block.forsborka.sapphire_ore": "Sapphire ore",
+  "block.forsborka.deepslate_sapphire_ore": "Deepslate sapphire ore",
+  "block.forsborka.nether_sapphire_ore": "Nether sapphire ore",
+  "block.forsborka.end_stone_sapphire_ore": "Endstone sapphire ore",
+
+  "item.forsborka.metal_detector": "Metal detector",
+
+  "block.forsborka.sound_block": "Sound block",
+
+  "item.forsborka.strawberry": "Strawberry",
+  "item.forsborka.corn": "Corn",
+
+  "item.forsborka.pine_cone": "Pine cone",
+
+  "tooltip.forsborka.metal_detector.tooltip": "Finds valuables underground!",
+
+  "unmessage.forsborka.metal_detector.unmessage": "Not found valuables!",
+
+  "tooltip.forsborka.sound_block.tooltip": "Makes sweet sound when right-clicked!",
+
+  "block.forsborka.sapphire_stairs": "Sapphire stairs",
+  "block.forsborka.sapphire_slab": "Sapphire slab",
+  "block.forsborka.sapphire_button": "Sapphire button",
+  "block.forsborka.sapphire_pressure_plate": "Sapphire pressure plate",
+  "block.forsborka.sapphire_fence": "Sapphire fence",
+  "block.forsborka.sapphire_fence_gate": "Sapphire fence gate",
+  "block.forsborka.sapphire_wall": "Sapphire wall",
+  "block.forsborka.sapphire_door": "Sapphire door",
+  "block.forsborka.sapphire_trapdoor": "Sapphire trapdoor",
+
+  "item.forsborka.sapphire_staff": "Sapphire staff",
+
+  "item.forsborka.sapphire_sword": "Sapphire sword",
+  "item.forsborka.sapphire_pickaxe": "Sapphire pickaxe",
+  "item.forsborka.sapphire_axe": "Sapphire axe",
+  "item.forsborka.sapphire_shovel": "Sapphire shovel",
+  "item.forsborka.sapphire_hoe": "Sapphire hoe",
+
+  "item.forsborka.sapphire_helmet": "Sapphire helmet",
+  "item.forsborka.sapphire_chestplate": "Sapphire chestplate",
+  "item.forsborka.sapphire_leggings": "Sapphire leggings",
+  "item.forsborka.sapphire_boots": "Sapphire boots",
+
+  "item.forsborka.strawberry_seeds": "Strawberry seeds",
+  "item.forsborka.corn_seeds": "Corn seeds",
+
+  "block.forsborka.strawberry_crop": "Strawberry crop",
+  "block.forsborka.corn_crop": "Corn crop",
+
+  "entity.minecraft.villager.forsborka.soundmaster": "Sound master",
+
+  "sounds.forsborka.metal_detector_found_ore": "Metal detector jingle"
+
+}

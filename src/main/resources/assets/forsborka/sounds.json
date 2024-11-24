@@ -1,0 +1,38 @@
+{
+  "metal_detector_found_ore": {
+    "subtitle": "sounds.forsborka.metal_detector_found_ore",
+    "sounds": [
+      "forsborka:metal_detector_found_ore"
+    ]
+  },
+  "sound_block_break": {
+    "subtitle": "sounds.forsborka.sound_block_break",
+    "sounds": [
+      "forsborka:sound_block_break"
+    ]
+  },
+  "sound_block_step": {
+    "subtitle": "sounds.forsborka.sound_block_step",
+    "sounds": [
+      "forsborka:sound_block_step"
+    ]
+  },
+  "sound_block_place": {
+    "subtitle": "sounds.forsborka.sound_block_place",
+    "sounds": [
+      "forsborka:sound_block_place"
+    ]
+  },
+  "sound_block_hit": {
+    "subtitle": "sounds.forsborka.sound_block_hit",
+    "sounds": [
+      "forsborka:sound_block_hit"
+    ]
+  },
+  "sound_block_fall": {
+    "subtitle": "sounds.forsborka.sound_block_fall",
+    "sounds": [
+      "forsborka:sound_block_fall"
+    ]
+  }
+}

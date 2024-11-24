@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "forsborka:block/sapphire_slab"
+    },
+    "type=double": {
+      "model": "forsborka:block/sapphire_block"
+    },
+    "type=top": {
+      "model": "forsborka:block/sapphire_slab_top"
+    }
+  }
+}
